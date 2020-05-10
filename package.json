@@ -1,13 +1,15 @@
 {
     "name": "brohelper",
     "version": "1.0.0",
-    "description": "user browser info",
+    "description": "user browser and device info",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "browser",
+        "browser info",
+        "window info",
+        "device info",
         "useragent"
     ],
     "author": "Lugin Dmitriy",
