@@ -12,6 +12,11 @@
         "device info",
         "useragent"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lugin-design/brohelper.git"
+    },
+    "homepage": "https://github.com/lugin-design/brohelper",
     "author": "Lugin Dmitriy",
     "license": "MIT"
 }
