@@ -1,6 +1,6 @@
 {
     "name": "@lugindev/brohelper",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "user browser and device info",
     "main": "index.js",
     "scripts": {
