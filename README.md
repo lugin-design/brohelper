@@ -17,11 +17,11 @@ import { methodName } from '@lugindev/brohelper'
 
 ## Methods
 
-| methodName               | return  | desc                                                    |
-|--------------------------|---------|---------------------------------------------------------|
-| **browserScrollWidth()** | Number  | Browser scrollbar width                                 |
-| **deviceIsMac()**        | Boolean | Detect MacOS. This method return true also for iPad Pro |
-| **deviceIsWin()**        | Boolean | Detect Windows OS                                       |
-| **deviceUseCursor()**    | Boolean | Check user devise use cursor(mouse) or not              |
+| methodName                  | return  | desc                                                    |
+|-----------------------------|---------|---------------------------------------------------------|
+| **browserScrollBarWidth()** | Number  | Browser scrollbar width                                 |
+| **deviceIsMac()**           | Boolean | Detect MacOS. This method return true also for iPad Pro |
+| **deviceIsWin()**           | Boolean | Detect Windows OS                                       |
+| **deviceUseCursor()**       | Boolean | Check user devise use cursor(mouse) or not              |
 
 Will be supplemented ...
