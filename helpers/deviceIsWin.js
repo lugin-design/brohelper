@@ -4,7 +4,7 @@
  * @return {Boolean}
  */
 function deviceIsWin() {
-    return window.navigator.platform.toUpperCase().indexOf('MAC') > -1
+    return window.navigator.platform.toUpperCase().indexOf('WIN') > -1
 }
 
 export { deviceIsWin }

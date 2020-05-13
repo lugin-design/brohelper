@@ -1,4 +1,8 @@
-function browserScrollWidth() {
+/**
+ * Browser scrollbar width
+ * @return {Number}
+ */
+function browserScrollBarWidth() {
     let div = document.createElement('div')
     div.style.visibility = 'hidden'
     div.style.position = 'absolute'
@@ -13,4 +17,4 @@ function browserScrollWidth() {
     return sw
 }
 
-export { browserScrollWidth }
+export { browserScrollBarWidth }

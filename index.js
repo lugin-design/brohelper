@@ -4,4 +4,4 @@ export { deviceIsWin } from './helpers/deviceIsWin.js'
 export { deviceUseCursor } from './helpers/deviceUseCursor.js'
 
 // Browser info
-export { browserScrollWidth } from './helpers/browserScrollWidth.js'
+export { browserScrollBarWidth } from './helpers/browserScrollBarWidth.js'
