@@ -20,6 +20,8 @@ import { methodName } from '@lugindev/brohelper'
 | methodName                  | return  | desc                                                    |
 |-----------------------------|---------|---------------------------------------------------------|
 | **browserScrollBarWidth()** | Number  | Browser scrollbar width                                 |
+| **browserIsIE()**           | Boolean | Browser is Internet Explorer                            |
+| **browserIsEdge()**         | Boolean | Browser is Edge                                         |
 | **deviceIsMac()**           | Boolean | Detect MacOS. This method return true also for iPad Pro |
 | **deviceIsWin()**           | Boolean | Detect Windows OS                                       |
 | **deviceUseCursor()**       | Boolean | Check user devise use cursor(mouse) or not              |
